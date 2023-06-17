@@ -27,3 +27,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+/client_recv.txt
+/client_send.txt
+/server_recv.txt
+/server_send.txt
+
+.idea/
